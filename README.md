@@ -1,7 +1,10 @@
 ### **دليل المستخدم (README.md)**
 
-#### **العنوان (Title):**
-# أداة تحليل SEO (SEO Analysis Tool)
+#![Capture d’écran 2024-12-31 à 09 53 04](https://github.com/user-attachments/assets/d64b70ee-3020-4c42-90de-9054a539b5da)
+![Capture d’écran 2024-12-31 à 09 54 18](https://github.com/user-attachments/assets/8272b59c-439b-47e8-9bb4-dd05754dd3c7)
+
+ أداة تحليل SEO (SEO Analysis Tool)
+
 
 #### **الوصف (Description):**
 أداة تحليل SEO هي أداة قوية لتحليل المواقع الإلكترونية من حيث تحسين محركات البحث (SEO). تمكنك هذه الأداة من تحليل عدة جوانب للموقع مثل الكلمات المفتاحية، جودة المحتوى، سرعة التحميل، الروابط، والعديد من التحليلات الأخرى.
