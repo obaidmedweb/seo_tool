@@ -1,5 +1,6 @@
 ### **دليل المستخدم (README.md)**
 
+#### **العنوان (Title):**
 # أداة تحليل SEO (SEO Analysis Tool)
 
 #### **الوصف (Description):**
@@ -41,14 +42,8 @@
 
 1. قم بتشغيل البرنامج باستخدام الأمر التالي:
    ```bash
-   python seo_tool.py
+   python seo_tool_gui.py
    ```
-   أو بالواجهة الانجليزية
-   ```bash
-   python seoenglish.py
-   ```
-
-
 2. بعد تشغيل الأداة، يمكنك إدخال الرابط (URL) الخاص بالموقع الذي ترغب في تحليله في الخانة المخصصة.
 3. اضغط على زر "تحليل" لتحصل على تحليل SEO للموقع.
 4. يمكنك حفظ النتائج في ملف نصي عبر زر "حفظ النتائج".
@@ -134,20 +129,14 @@ This tool is developed using Python with a graphical user interface (GUI) using 
 
 ### **Usage:**
 
-1. Run the application with the following command: 
-   Arabic interface:
+1. Run the application with the following command:
    ```bash
-   python seotool.py
+   python seo_tool_gui.py
    ```
-   English Interface:
-      ```bash
-   python seoenglish.py
-   ```
-
-3. Once the tool is running, enter the URL of the website you want to analyze in the provided field.
-4. Press the "Analyze" button to get the SEO analysis for the website.
-5. You can save the results to a text file by clicking the "Save Results" button.
-6. The analysis results will be displayed in the UI, including graphical charts showing the distribution of headings on the page.
+2. Once the tool is running, enter the URL of the website you want to analyze in the provided field.
+3. Press the "Analyze" button to get the SEO analysis for the website.
+4. You can save the results to a text file by clicking the "Save Results" button.
+5. The analysis results will be displayed in the UI, including graphical charts showing the distribution of headings on the page.
 
 ---
 
