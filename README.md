@@ -178,4 +178,3 @@ This tool is developed under an open-source license. You are free to use and mod
 
 ---
 
-بهذا الشكل، تم توفير دليل المستخدم بشكل كامل باللغة العربية والإنجليزية.
