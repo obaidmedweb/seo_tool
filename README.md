@@ -172,9 +172,3 @@ If you would like to contribute to improving the tool, follow these steps:
 
 ---
 
-### **License:**
-
-This tool is developed under an open-source license. You are free to use and modify it according to the terms of the license.
-
----
-
